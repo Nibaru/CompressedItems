@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "carrot",
+  "ingredients": [
+    {
+      "item": "compressed_items:carrot_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:carrot_iv"
+  }
+}

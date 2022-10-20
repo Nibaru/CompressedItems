@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "phantom_membrane",
+  "key": {
+    "#": {
+      "item": "compressed_items:phantom_membrane_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:phantom_membrane_iii"
+  }
+}

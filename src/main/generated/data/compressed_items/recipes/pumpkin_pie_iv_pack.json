@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pumpkin_pie",
+  "key": {
+    "#": {
+      "item": "compressed_items:pumpkin_pie_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:pumpkin_pie_v"
+  }
+}

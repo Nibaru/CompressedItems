@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tropical_fish",
+  "key": {
+    "#": {
+      "item": "compressed_items:tropical_fish_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:tropical_fish_iii"
+  }
+}

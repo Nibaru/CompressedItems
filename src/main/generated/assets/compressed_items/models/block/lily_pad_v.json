@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:block/lily_pad",
+    "layer0": "minecraft:block/netherite_block"
+  }
+}

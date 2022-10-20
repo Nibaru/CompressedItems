@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cookie",
+  "ingredients": [
+    {
+      "item": "compressed_items:cookie_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:cookie_iv"
+  }
+}

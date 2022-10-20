@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "vine",
+  "ingredients": [
+    {
+      "item": "compressed_items:vine_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:vine_iv"
+  }
+}

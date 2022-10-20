@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dead_bush",
+  "ingredients": [
+    {
+      "item": "compressed_items:dead_bush_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:dead_bush_i"
+  }
+}

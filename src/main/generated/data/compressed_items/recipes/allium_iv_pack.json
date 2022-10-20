@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "allium",
+  "key": {
+    "#": {
+      "item": "compressed_items:allium_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:allium_v"
+  }
+}

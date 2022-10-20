@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "totem_of_undying",
+  "ingredients": [
+    {
+      "item": "compressed_items:totem_of_undying_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:totem_of_undying_iii"
+  }
+}

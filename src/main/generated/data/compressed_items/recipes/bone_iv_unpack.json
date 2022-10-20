@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bone",
+  "ingredients": [
+    {
+      "item": "compressed_items:bone_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:bone_iii"
+  }
+}

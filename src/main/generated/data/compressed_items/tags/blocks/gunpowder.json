@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:gunpowder_i",
+    "compressed_items:gunpowder_ii",
+    "compressed_items:gunpowder_iii",
+    "compressed_items:gunpowder_iv",
+    "compressed_items:gunpowder_v"
+  ]
+}

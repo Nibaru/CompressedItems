@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "arrow",
+  "key": {
+    "#": {
+      "item": "compressed_items:arrow_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:arrow_ii"
+  }
+}

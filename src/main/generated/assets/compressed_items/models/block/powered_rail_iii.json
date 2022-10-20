@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:block/powered_rail",
+    "layer0": "minecraft:block/gold_block"
+  }
+}

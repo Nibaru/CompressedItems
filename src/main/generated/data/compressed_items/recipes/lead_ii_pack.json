@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lead",
+  "key": {
+    "#": {
+      "item": "compressed_items:lead_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:lead_iii"
+  }
+}

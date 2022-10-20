@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest_minecart",
+  "key": {
+    "#": {
+      "item": "compressed_items:chest_minecart_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:chest_minecart_iii"
+  }
+}

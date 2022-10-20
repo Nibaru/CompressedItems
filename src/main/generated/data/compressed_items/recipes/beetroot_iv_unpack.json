@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "beetroot",
+  "ingredients": [
+    {
+      "item": "compressed_items:beetroot_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:beetroot_iii"
+  }
+}

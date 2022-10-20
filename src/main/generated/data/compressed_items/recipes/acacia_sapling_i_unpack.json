@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "acacia_sapling",
+  "ingredients": [
+    {
+      "item": "compressed_items:acacia_sapling_i"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:acacia_sapling"
+  }
+}

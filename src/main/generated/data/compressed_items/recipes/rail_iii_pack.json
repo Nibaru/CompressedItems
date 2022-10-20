@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rail",
+  "key": {
+    "#": {
+      "item": "compressed_items:rail_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:rail_iv"
+  }
+}

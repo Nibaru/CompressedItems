@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "red_mushroom",
+  "ingredients": [
+    {
+      "item": "compressed_items:red_mushroom_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:red_mushroom_iii"
+  }
+}

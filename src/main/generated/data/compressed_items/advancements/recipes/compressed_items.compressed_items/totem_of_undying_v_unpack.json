@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:totem_of_undying_v_unpack"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_totem_of_undying_v": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "compressed_items:totem_of_undying_v"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_totem_of_undying_v",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:totem_of_undying_v_unpack"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "vine",
+  "key": {
+    "#": {
+      "item": "compressed_items:vine_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:vine_v"
+  }
+}

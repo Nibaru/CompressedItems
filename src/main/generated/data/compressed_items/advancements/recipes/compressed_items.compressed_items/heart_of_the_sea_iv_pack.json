@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_heart_of_the_sea_iv": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "compressed_items:heart_of_the_sea_iv"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:heart_of_the_sea_iv_pack"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_heart_of_the_sea_iv",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:heart_of_the_sea_iv_pack"
+    ]
+  }
+}

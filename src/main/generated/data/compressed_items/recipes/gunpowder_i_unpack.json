@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gunpowder",
+  "ingredients": [
+    {
+      "item": "compressed_items:gunpowder_i"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:gunpowder"
+  }
+}

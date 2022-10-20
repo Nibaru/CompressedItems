@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cooked_beef",
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:cooked_beef_i"
+  }
+}

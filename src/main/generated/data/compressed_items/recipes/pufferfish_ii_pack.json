@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pufferfish",
+  "key": {
+    "#": {
+      "item": "compressed_items:pufferfish_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:pufferfish_iii"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dandelion",
+  "ingredients": [
+    {
+      "item": "compressed_items:dandelion_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:dandelion_iv"
+  }
+}

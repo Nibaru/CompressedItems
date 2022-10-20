@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "blue_orchid",
+  "key": {
+    "#": {
+      "item": "compressed_items:blue_orchid_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:blue_orchid_iv"
+  }
+}

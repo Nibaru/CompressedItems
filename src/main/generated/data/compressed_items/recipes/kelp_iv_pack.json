@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "kelp",
+  "key": {
+    "#": {
+      "item": "compressed_items:kelp_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:kelp_v"
+  }
+}

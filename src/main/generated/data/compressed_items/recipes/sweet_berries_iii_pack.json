@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sweet_berries",
+  "key": {
+    "#": {
+      "item": "compressed_items:sweet_berries_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:sweet_berries_iv"
+  }
+}

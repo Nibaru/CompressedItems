@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:block/sugar_cane",
+    "layer0": "minecraft:block/diamond_block"
+  }
+}

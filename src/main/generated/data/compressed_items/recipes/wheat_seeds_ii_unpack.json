@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wheat_seeds",
+  "ingredients": [
+    {
+      "item": "compressed_items:wheat_seeds_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:wheat_seeds_i"
+  }
+}

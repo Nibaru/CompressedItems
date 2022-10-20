@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "totem_of_undying",
+  "key": {
+    "#": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:totem_of_undying_i"
+  }
+}

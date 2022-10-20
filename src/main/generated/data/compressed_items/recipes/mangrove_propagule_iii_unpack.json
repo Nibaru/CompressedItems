@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mangrove_propagule",
+  "ingredients": [
+    {
+      "item": "compressed_items:mangrove_propagule_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:mangrove_propagule_ii"
+  }
+}

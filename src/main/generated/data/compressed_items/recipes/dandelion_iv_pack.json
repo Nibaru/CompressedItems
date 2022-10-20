@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dandelion",
+  "key": {
+    "#": {
+      "item": "compressed_items:dandelion_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:dandelion_v"
+  }
+}

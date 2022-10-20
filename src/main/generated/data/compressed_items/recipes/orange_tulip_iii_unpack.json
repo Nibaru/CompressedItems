@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "orange_tulip",
+  "ingredients": [
+    {
+      "item": "compressed_items:orange_tulip_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:orange_tulip_ii"
+  }
+}

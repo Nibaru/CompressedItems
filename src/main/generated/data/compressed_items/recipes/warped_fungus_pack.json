@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warped_fungus",
+  "key": {
+    "#": {
+      "item": "minecraft:warped_fungus"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:warped_fungus_i"
+  }
+}

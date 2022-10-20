@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mangrove_propagule",
+  "key": {
+    "#": {
+      "item": "compressed_items:mangrove_propagule_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:mangrove_propagule_iii"
+  }
+}

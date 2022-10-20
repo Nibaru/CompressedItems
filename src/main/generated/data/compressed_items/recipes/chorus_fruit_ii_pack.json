@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chorus_fruit",
+  "key": {
+    "#": {
+      "item": "compressed_items:chorus_fruit_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:chorus_fruit_iii"
+  }
+}

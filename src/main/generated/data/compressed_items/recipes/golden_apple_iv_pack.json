@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "golden_apple",
+  "key": {
+    "#": {
+      "item": "compressed_items:golden_apple_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:golden_apple_v"
+  }
+}

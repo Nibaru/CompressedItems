@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pufferfish",
+  "ingredients": [
+    {
+      "item": "compressed_items:pufferfish_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:pufferfish_ii"
+  }
+}

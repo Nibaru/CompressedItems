@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lead",
+  "ingredients": [
+    {
+      "item": "compressed_items:lead_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:lead_ii"
+  }
+}

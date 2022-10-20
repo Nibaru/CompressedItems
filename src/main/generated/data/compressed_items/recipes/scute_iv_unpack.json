@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "scute",
+  "ingredients": [
+    {
+      "item": "compressed_items:scute_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:scute_iii"
+  }
+}

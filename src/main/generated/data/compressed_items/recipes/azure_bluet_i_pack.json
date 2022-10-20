@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "azure_bluet",
+  "key": {
+    "#": {
+      "item": "compressed_items:azure_bluet_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:azure_bluet_ii"
+  }
+}

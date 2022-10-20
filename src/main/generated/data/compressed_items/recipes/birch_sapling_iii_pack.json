@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "birch_sapling",
+  "key": {
+    "#": {
+      "item": "compressed_items:birch_sapling_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:birch_sapling_iv"
+  }
+}

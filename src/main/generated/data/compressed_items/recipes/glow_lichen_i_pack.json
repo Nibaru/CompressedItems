@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "glow_lichen",
+  "key": {
+    "#": {
+      "item": "compressed_items:glow_lichen_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:glow_lichen_ii"
+  }
+}

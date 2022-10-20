@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "melon_seeds",
+  "ingredients": [
+    {
+      "item": "compressed_items:melon_seeds_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:melon_seeds_i"
+  }
+}

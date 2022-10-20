@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cooked_salmon",
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_salmon"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:cooked_salmon_i"
+  }
+}

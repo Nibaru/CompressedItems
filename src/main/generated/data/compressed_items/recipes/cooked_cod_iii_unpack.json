@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cooked_cod",
+  "ingredients": [
+    {
+      "item": "compressed_items:cooked_cod_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:cooked_cod_ii"
+  }
+}

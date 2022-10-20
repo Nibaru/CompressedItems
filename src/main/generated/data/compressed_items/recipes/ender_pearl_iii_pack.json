@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ender_pearl",
+  "key": {
+    "#": {
+      "item": "compressed_items:ender_pearl_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:ender_pearl_iv"
+  }
+}

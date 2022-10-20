@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oxeye_daisy",
+  "key": {
+    "#": {
+      "item": "compressed_items:oxeye_daisy_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:oxeye_daisy_iv"
+  }
+}

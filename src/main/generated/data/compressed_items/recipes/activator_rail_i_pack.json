@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "activator_rail",
+  "key": {
+    "#": {
+      "item": "compressed_items:activator_rail_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:activator_rail_ii"
+  }
+}

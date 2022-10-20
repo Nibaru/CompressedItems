@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "seagrass",
+  "ingredients": [
+    {
+      "item": "compressed_items:seagrass_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:seagrass_ii"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spruce_sapling",
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_sapling"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:spruce_sapling_i"
+  }
+}

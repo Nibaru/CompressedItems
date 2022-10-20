@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lily_pad",
+  "ingredients": [
+    {
+      "item": "compressed_items:lily_pad_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:lily_pad_ii"
+  }
+}

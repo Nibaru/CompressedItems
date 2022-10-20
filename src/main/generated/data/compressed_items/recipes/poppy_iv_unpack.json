@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "poppy",
+  "ingredients": [
+    {
+      "item": "compressed_items:poppy_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:poppy_iii"
+  }
+}

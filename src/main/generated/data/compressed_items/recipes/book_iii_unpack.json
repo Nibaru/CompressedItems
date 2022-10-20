@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "book",
+  "ingredients": [
+    {
+      "item": "compressed_items:book_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:book_ii"
+  }
+}

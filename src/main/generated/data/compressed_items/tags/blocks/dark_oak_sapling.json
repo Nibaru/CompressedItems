@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:dark_oak_sapling_i",
+    "compressed_items:dark_oak_sapling_ii",
+    "compressed_items:dark_oak_sapling_iii",
+    "compressed_items:dark_oak_sapling_iv",
+    "compressed_items:dark_oak_sapling_v"
+  ]
+}

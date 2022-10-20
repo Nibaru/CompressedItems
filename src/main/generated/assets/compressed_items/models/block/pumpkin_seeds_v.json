@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:item/pumpkin_seeds",
+    "layer0": "minecraft:block/netherite_block"
+  }
+}

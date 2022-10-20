@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "heart_of_the_sea",
+  "key": {
+    "#": {
+      "item": "compressed_items:heart_of_the_sea_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:heart_of_the_sea_ii"
+  }
+}

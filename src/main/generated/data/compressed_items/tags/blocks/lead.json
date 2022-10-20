@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:lead_i",
+    "compressed_items:lead_ii",
+    "compressed_items:lead_iii",
+    "compressed_items:lead_iv",
+    "compressed_items:lead_v"
+  ]
+}

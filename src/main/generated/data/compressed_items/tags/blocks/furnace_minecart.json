@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:furnace_minecart_i",
+    "compressed_items:furnace_minecart_ii",
+    "compressed_items:furnace_minecart_iii",
+    "compressed_items:furnace_minecart_iv",
+    "compressed_items:furnace_minecart_v"
+  ]
+}

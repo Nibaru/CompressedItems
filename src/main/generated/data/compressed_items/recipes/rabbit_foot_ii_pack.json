@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rabbit_foot",
+  "key": {
+    "#": {
+      "item": "compressed_items:rabbit_foot_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:rabbit_foot_iii"
+  }
+}

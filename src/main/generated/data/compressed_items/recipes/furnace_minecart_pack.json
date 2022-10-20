@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "furnace_minecart",
+  "key": {
+    "#": {
+      "item": "minecraft:furnace_minecart"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:furnace_minecart_i"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sunflower",
+  "ingredients": [
+    {
+      "item": "compressed_items:sunflower_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:sunflower_iv"
+  }
+}

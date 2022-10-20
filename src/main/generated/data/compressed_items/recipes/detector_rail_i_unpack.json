@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "detector_rail",
+  "ingredients": [
+    {
+      "item": "compressed_items:detector_rail_i"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:detector_rail"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:wither_rose_i",
+    "compressed_items:wither_rose_ii",
+    "compressed_items:wither_rose_iii",
+    "compressed_items:wither_rose_iv",
+    "compressed_items:wither_rose_v"
+  ]
+}

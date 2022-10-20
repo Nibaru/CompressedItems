@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wither_rose",
+  "key": {
+    "#": {
+      "item": "compressed_items:wither_rose_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:wither_rose_iii"
+  }
+}

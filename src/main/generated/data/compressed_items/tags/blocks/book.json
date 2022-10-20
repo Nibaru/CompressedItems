@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:book_i",
+    "compressed_items:book_ii",
+    "compressed_items:book_iii",
+    "compressed_items:book_iv",
+    "compressed_items:book_v"
+  ]
+}

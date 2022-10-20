@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:tnt_minecart_i",
+    "compressed_items:tnt_minecart_ii",
+    "compressed_items:tnt_minecart_iii",
+    "compressed_items:tnt_minecart_iv",
+    "compressed_items:tnt_minecart_v"
+  ]
+}

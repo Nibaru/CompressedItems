@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "crimson_fungus",
+  "ingredients": [
+    {
+      "item": "compressed_items:crimson_fungus_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:crimson_fungus_i"
+  }
+}

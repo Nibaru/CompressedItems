@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:chest_minecart_i",
+    "compressed_items:chest_minecart_ii",
+    "compressed_items:chest_minecart_iii",
+    "compressed_items:chest_minecart_iv",
+    "compressed_items:chest_minecart_v"
+  ]
+}

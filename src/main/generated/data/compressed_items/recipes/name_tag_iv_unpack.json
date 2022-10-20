@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "name_tag",
+  "ingredients": [
+    {
+      "item": "compressed_items:name_tag_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:name_tag_iii"
+  }
+}

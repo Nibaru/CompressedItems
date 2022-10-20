@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dark_oak_sapling",
+  "ingredients": [
+    {
+      "item": "compressed_items:dark_oak_sapling_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:dark_oak_sapling_ii"
+  }
+}

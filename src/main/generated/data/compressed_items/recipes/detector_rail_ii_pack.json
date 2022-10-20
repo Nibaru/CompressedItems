@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "detector_rail",
+  "key": {
+    "#": {
+      "item": "compressed_items:detector_rail_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:detector_rail_iii"
+  }
+}

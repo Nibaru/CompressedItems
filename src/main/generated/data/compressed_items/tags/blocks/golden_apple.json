@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:golden_apple_i",
+    "compressed_items:golden_apple_ii",
+    "compressed_items:golden_apple_iii",
+    "compressed_items:golden_apple_iv",
+    "compressed_items:golden_apple_v"
+  ]
+}

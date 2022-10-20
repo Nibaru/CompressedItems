@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chest_minecart",
+  "ingredients": [
+    {
+      "item": "compressed_items:chest_minecart_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:chest_minecart_iv"
+  }
+}

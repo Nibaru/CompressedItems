@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lilac",
+  "ingredients": [
+    {
+      "item": "compressed_items:lilac_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:lilac_iii"
+  }
+}

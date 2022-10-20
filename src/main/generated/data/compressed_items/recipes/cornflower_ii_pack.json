@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cornflower",
+  "key": {
+    "#": {
+      "item": "compressed_items:cornflower_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:cornflower_iii"
+  }
+}

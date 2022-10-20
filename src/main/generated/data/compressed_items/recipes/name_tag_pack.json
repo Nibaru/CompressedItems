@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "name_tag",
+  "key": {
+    "#": {
+      "item": "minecraft:name_tag"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:name_tag_i"
+  }
+}

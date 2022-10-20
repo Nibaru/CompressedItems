@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "melon_seeds",
+  "key": {
+    "#": {
+      "item": "compressed_items:melon_seeds_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:melon_seeds_iii"
+  }
+}

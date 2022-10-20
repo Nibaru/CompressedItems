@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "egg",
+  "ingredients": [
+    {
+      "item": "compressed_items:egg_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:egg_iii"
+  }
+}

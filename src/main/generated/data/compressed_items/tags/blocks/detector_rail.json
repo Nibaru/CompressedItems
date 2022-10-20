@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:detector_rail_i",
+    "compressed_items:detector_rail_ii",
+    "compressed_items:detector_rail_iii",
+    "compressed_items:detector_rail_iv",
+    "compressed_items:detector_rail_v"
+  ]
+}

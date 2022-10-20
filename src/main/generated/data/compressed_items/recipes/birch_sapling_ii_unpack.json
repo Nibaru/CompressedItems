@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "birch_sapling",
+  "ingredients": [
+    {
+      "item": "compressed_items:birch_sapling_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:birch_sapling_i"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sunflower",
+  "key": {
+    "#": {
+      "item": "compressed_items:sunflower_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:sunflower_iii"
+  }
+}

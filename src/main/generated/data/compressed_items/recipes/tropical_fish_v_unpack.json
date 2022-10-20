@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tropical_fish",
+  "ingredients": [
+    {
+      "item": "compressed_items:tropical_fish_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:tropical_fish_iv"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lily_pad",
+  "key": {
+    "#": {
+      "item": "compressed_items:lily_pad_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:lily_pad_iii"
+  }
+}

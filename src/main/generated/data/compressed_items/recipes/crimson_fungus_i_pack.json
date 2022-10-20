@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crimson_fungus",
+  "key": {
+    "#": {
+      "item": "compressed_items:crimson_fungus_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:crimson_fungus_ii"
+  }
+}

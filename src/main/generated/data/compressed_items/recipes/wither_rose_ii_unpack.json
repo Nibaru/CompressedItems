@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wither_rose",
+  "ingredients": [
+    {
+      "item": "compressed_items:wither_rose_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:wither_rose_i"
+  }
+}

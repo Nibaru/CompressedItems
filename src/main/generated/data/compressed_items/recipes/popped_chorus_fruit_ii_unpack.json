@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "popped_chorus_fruit",
+  "ingredients": [
+    {
+      "item": "compressed_items:popped_chorus_fruit_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:popped_chorus_fruit_i"
+  }
+}

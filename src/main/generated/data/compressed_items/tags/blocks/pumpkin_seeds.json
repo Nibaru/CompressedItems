@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:pumpkin_seeds_i",
+    "compressed_items:pumpkin_seeds_ii",
+    "compressed_items:pumpkin_seeds_iii",
+    "compressed_items:pumpkin_seeds_iv",
+    "compressed_items:pumpkin_seeds_v"
+  ]
+}

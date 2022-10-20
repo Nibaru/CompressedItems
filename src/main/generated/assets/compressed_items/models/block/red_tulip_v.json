@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:block/red_tulip",
+    "layer0": "minecraft:block/netherite_block"
+  }
+}

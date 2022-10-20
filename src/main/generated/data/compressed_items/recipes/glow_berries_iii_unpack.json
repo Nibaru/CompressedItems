@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "glow_berries",
+  "ingredients": [
+    {
+      "item": "compressed_items:glow_berries_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:glow_berries_ii"
+  }
+}

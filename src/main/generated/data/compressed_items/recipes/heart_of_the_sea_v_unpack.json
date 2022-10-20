@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "heart_of_the_sea",
+  "ingredients": [
+    {
+      "item": "compressed_items:heart_of_the_sea_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:heart_of_the_sea_iv"
+  }
+}

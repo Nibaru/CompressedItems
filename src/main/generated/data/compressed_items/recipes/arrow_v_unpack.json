@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "arrow",
+  "ingredients": [
+    {
+      "item": "compressed_items:arrow_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:arrow_iv"
+  }
+}

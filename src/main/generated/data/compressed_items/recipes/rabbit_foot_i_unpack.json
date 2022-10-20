@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rabbit_foot",
+  "ingredients": [
+    {
+      "item": "compressed_items:rabbit_foot_i"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:rabbit_foot"
+  }
+}

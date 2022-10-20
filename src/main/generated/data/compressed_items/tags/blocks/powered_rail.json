@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:powered_rail_i",
+    "compressed_items:powered_rail_ii",
+    "compressed_items:powered_rail_iii",
+    "compressed_items:powered_rail_iv",
+    "compressed_items:powered_rail_v"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:item/cooked_mutton",
+    "layer0": "minecraft:block/gold_block"
+  }
+}

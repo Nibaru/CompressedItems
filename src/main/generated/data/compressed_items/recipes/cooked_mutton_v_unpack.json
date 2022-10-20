@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cooked_mutton",
+  "ingredients": [
+    {
+      "item": "compressed_items:cooked_mutton_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:cooked_mutton_iv"
+  }
+}

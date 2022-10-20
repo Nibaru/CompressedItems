@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cooked_mutton",
+  "key": {
+    "#": {
+      "item": "compressed_items:cooked_mutton_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:cooked_mutton_v"
+  }
+}

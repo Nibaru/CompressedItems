@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "seagrass",
+  "key": {
+    "#": {
+      "item": "compressed_items:seagrass_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:seagrass_ii"
+  }
+}

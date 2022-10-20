@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "saddle",
+  "ingredients": [
+    {
+      "item": "compressed_items:saddle_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:saddle_ii"
+  }
+}

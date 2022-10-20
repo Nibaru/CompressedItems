@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "azure_bluet",
+  "ingredients": [
+    {
+      "item": "compressed_items:azure_bluet_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:azure_bluet_i"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "feather",
+  "ingredients": [
+    {
+      "item": "compressed_items:feather_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:feather_ii"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rabbit",
+  "key": {
+    "#": {
+      "item": "compressed_items:rabbit_iii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:rabbit_iv"
+  }
+}

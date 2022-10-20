@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:minecart_i",
+    "compressed_items:minecart_ii",
+    "compressed_items:minecart_iii",
+    "compressed_items:minecart_iv",
+    "compressed_items:minecart_v"
+  ]
+}

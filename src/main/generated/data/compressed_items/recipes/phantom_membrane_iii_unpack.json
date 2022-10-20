@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "phantom_membrane",
+  "ingredients": [
+    {
+      "item": "compressed_items:phantom_membrane_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:phantom_membrane_ii"
+  }
+}

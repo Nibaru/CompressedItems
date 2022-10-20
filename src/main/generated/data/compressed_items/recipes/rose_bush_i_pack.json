@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rose_bush",
+  "key": {
+    "#": {
+      "item": "compressed_items:rose_bush_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:rose_bush_ii"
+  }
+}

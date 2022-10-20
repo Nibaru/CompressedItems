@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "beetroot",
+  "key": {
+    "#": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:beetroot_i"
+  }
+}

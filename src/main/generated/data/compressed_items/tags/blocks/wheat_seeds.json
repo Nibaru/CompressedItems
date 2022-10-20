@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:wheat_seeds_i",
+    "compressed_items:wheat_seeds_ii",
+    "compressed_items:wheat_seeds_iii",
+    "compressed_items:wheat_seeds_iv",
+    "compressed_items:wheat_seeds_v"
+  ]
+}

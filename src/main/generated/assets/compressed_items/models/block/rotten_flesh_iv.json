@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:item/rotten_flesh",
+    "layer0": "minecraft:block/diamond_block"
+  }
+}

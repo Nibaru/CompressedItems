@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rotten_flesh",
+  "key": {
+    "#": {
+      "item": "compressed_items:rotten_flesh_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:rotten_flesh_iii"
+  }
+}

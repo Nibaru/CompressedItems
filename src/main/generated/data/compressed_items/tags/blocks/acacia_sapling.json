@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:acacia_sapling_i",
+    "compressed_items:acacia_sapling_ii",
+    "compressed_items:acacia_sapling_iii",
+    "compressed_items:acacia_sapling_iv",
+    "compressed_items:acacia_sapling_v"
+  ]
+}

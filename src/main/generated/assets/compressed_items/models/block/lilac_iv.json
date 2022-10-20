@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:block/lilac_top",
+    "layer0": "minecraft:block/diamond_block"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brown_mushroom",
+  "key": {
+    "#": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:brown_mushroom_i"
+  }
+}

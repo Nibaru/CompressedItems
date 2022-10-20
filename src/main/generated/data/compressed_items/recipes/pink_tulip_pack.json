@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pink_tulip",
+  "key": {
+    "#": {
+      "item": "minecraft:pink_tulip"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:pink_tulip_i"
+  }
+}

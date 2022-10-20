@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "leather",
+  "ingredients": [
+    {
+      "item": "compressed_items:leather_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:leather_ii"
+  }
+}

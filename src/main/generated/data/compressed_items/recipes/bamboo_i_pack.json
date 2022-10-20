@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bamboo",
+  "key": {
+    "#": {
+      "item": "compressed_items:bamboo_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:bamboo_ii"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "glass_bottle",
+  "key": {
+    "#": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:glass_bottle_i"
+  }
+}

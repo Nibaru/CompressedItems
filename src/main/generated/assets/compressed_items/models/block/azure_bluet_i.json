@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:block/azure_bluet",
+    "layer0": "minecraft:block/copper_block"
+  }
+}

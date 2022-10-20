@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "poppy",
+  "key": {
+    "#": {
+      "item": "compressed_items:poppy_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:poppy_v"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "apple",
+  "ingredients": [
+    {
+      "item": "compressed_items:apple_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:apple_iii"
+  }
+}

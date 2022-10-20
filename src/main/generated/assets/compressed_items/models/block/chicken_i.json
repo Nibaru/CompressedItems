@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:item/chicken",
+    "layer0": "minecraft:block/copper_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sweet_berries",
+  "ingredients": [
+    {
+      "item": "compressed_items:sweet_berries_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:sweet_berries_ii"
+  }
+}

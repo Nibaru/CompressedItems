@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "powered_rail",
+  "key": {
+    "#": {
+      "item": "minecraft:powered_rail"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:powered_rail_i"
+  }
+}

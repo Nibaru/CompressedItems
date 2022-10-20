@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rose_bush",
+  "ingredients": [
+    {
+      "item": "compressed_items:rose_bush_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:rose_bush_ii"
+  }
+}

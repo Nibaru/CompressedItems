@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spider_eye",
+  "key": {
+    "#": {
+      "item": "compressed_items:spider_eye_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:spider_eye_v"
+  }
+}

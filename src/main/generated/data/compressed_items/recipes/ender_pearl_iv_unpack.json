@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ender_pearl",
+  "ingredients": [
+    {
+      "item": "compressed_items:ender_pearl_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:ender_pearl_iii"
+  }
+}

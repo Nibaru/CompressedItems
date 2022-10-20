@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:spruce_sapling_i",
+    "compressed_items:spruce_sapling_ii",
+    "compressed_items:spruce_sapling_iii",
+    "compressed_items:spruce_sapling_iv",
+    "compressed_items:spruce_sapling_v"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "acacia_sapling",
+  "key": {
+    "#": {
+      "item": "compressed_items:acacia_sapling_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:acacia_sapling_ii"
+  }
+}

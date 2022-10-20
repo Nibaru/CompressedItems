@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cooked_rabbit",
+  "key": {
+    "#": {
+      "item": "compressed_items:cooked_rabbit_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:cooked_rabbit_v"
+  }
+}

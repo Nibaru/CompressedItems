@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cooked_beef",
+  "ingredients": [
+    {
+      "item": "compressed_items:cooked_beef_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:cooked_beef_iv"
+  }
+}

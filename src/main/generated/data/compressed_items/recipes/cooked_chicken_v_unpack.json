@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cooked_chicken",
+  "ingredients": [
+    {
+      "item": "compressed_items:cooked_chicken_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:cooked_chicken_iv"
+  }
+}

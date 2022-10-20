@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "red_tulip",
+  "key": {
+    "#": {
+      "item": "minecraft:red_tulip"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:red_tulip_i"
+  }
+}

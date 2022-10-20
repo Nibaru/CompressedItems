@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chicken",
+  "key": {
+    "#": {
+      "item": "compressed_items:chicken_i"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:chicken_ii"
+  }
+}

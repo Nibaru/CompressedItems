@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "spider_eye",
+  "ingredients": [
+    {
+      "item": "compressed_items:spider_eye_iv"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:spider_eye_iii"
+  }
+}

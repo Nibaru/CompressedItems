@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:string_i",
+    "compressed_items:string_ii",
+    "compressed_items:string_iii",
+    "compressed_items:string_iv",
+    "compressed_items:string_v"
+  ]
+}

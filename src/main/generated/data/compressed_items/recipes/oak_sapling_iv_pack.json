@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oak_sapling",
+  "key": {
+    "#": {
+      "item": "compressed_items:oak_sapling_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:oak_sapling_v"
+  }
+}

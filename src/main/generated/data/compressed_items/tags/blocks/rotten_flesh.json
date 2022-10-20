@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:rotten_flesh_i",
+    "compressed_items:rotten_flesh_ii",
+    "compressed_items:rotten_flesh_iii",
+    "compressed_items:rotten_flesh_iv",
+    "compressed_items:rotten_flesh_v"
+  ]
+}

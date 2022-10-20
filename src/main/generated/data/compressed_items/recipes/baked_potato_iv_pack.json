@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "baked_potato",
+  "key": {
+    "#": {
+      "item": "compressed_items:baked_potato_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:baked_potato_v"
+  }
+}

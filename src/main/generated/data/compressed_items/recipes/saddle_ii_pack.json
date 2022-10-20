@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "saddle",
+  "key": {
+    "#": {
+      "item": "compressed_items:saddle_ii"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:saddle_iii"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warped_fungus",
+  "ingredients": [
+    {
+      "item": "compressed_items:warped_fungus_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:warped_fungus_iv"
+  }
+}

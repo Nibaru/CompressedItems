@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lily_of_the_valley",
+  "key": {
+    "#": {
+      "item": "compressed_items:lily_of_the_valley_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:lily_of_the_valley_v"
+  }
+}

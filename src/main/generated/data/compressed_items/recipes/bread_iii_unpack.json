@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bread",
+  "ingredients": [
+    {
+      "item": "compressed_items:bread_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:bread_ii"
+  }
+}

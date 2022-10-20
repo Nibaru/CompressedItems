@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "white_tulip",
+  "key": {
+    "#": {
+      "item": "compressed_items:white_tulip_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:white_tulip_v"
+  }
+}

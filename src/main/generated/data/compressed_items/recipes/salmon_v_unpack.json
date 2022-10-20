@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "salmon",
+  "ingredients": [
+    {
+      "item": "compressed_items:salmon_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:salmon_iv"
+  }
+}

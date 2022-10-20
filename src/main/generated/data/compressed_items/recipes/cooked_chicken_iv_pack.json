@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cooked_chicken",
+  "key": {
+    "#": {
+      "item": "compressed_items:cooked_chicken_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:cooked_chicken_v"
+  }
+}

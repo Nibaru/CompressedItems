@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "activator_rail",
+  "ingredients": [
+    {
+      "item": "compressed_items:activator_rail_v"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:activator_rail_iv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "red_tulip",
+  "ingredients": [
+    {
+      "item": "compressed_items:red_tulip_ii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:red_tulip_i"
+  }
+}

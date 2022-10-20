@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:tropical_fish_v_unpack"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_tropical_fish_v": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "compressed_items:tropical_fish_v"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_tropical_fish_v",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:tropical_fish_v_unpack"
+    ]
+  }
+}

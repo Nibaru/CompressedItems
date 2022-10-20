@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:warped_fungus_iv_pack"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_warped_fungus_iv": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "compressed_items:warped_fungus_iv"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_warped_fungus_iv",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:warped_fungus_iv_pack"
+    ]
+  }
+}

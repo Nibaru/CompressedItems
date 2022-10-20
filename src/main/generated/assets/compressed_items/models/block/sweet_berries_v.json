@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:item/sweet_berries",
+    "layer0": "minecraft:block/netherite_block"
+  }
+}

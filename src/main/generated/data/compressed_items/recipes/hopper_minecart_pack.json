@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hopper_minecart",
+  "key": {
+    "#": {
+      "item": "minecraft:hopper_minecart"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:hopper_minecart_i"
+  }
+}

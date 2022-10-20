@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "porkchop",
+  "key": {
+    "#": {
+      "item": "compressed_items:porkchop_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:porkchop_v"
+  }
+}

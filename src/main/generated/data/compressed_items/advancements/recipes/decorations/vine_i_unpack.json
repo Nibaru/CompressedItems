@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:vine_i_unpack"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_vine_i": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "compressed_items:vine_i"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_vine_i",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:vine_i_unpack"
+    ]
+  }
+}

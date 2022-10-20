@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "turtle_egg",
+  "key": {
+    "#": {
+      "item": "compressed_items:turtle_egg_iv"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "compressed_items:turtle_egg_v"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "compressed_items:block/crate",
+  "textures": {
+    "content": "minecraft:item/spider_eye",
+    "layer0": "minecraft:block/iron_block"
+  }
+}

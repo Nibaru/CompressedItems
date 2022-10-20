@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "porkchop",
+  "ingredients": [
+    {
+      "item": "compressed_items:porkchop_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:porkchop_ii"
+  }
+}

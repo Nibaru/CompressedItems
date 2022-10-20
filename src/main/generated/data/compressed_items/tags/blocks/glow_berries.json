@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:glow_berries_i",
+    "compressed_items:glow_berries_ii",
+    "compressed_items:glow_berries_iii",
+    "compressed_items:glow_berries_iv",
+    "compressed_items:glow_berries_v"
+  ]
+}

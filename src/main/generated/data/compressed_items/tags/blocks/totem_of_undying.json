@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:totem_of_undying_i",
+    "compressed_items:totem_of_undying_ii",
+    "compressed_items:totem_of_undying_iii",
+    "compressed_items:totem_of_undying_iv",
+    "compressed_items:totem_of_undying_v"
+  ]
+}

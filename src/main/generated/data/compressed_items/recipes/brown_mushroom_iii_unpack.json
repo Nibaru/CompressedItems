@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "brown_mushroom",
+  "ingredients": [
+    {
+      "item": "compressed_items:brown_mushroom_iii"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "compressed_items:brown_mushroom_ii"
+  }
+}

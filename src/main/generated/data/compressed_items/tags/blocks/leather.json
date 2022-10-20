@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "compressed_items:leather_i",
+    "compressed_items:leather_ii",
+    "compressed_items:leather_iii",
+    "compressed_items:leather_iv",
+    "compressed_items:leather_v"
+  ]
+}
